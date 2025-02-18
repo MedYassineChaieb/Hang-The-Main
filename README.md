@@ -1,2 +1,2 @@
 # Hang-The-Main
-Game
+Console game programming in python
